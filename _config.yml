@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://tux007.github.io
+title: Portfolio
+email: thomas.steimann@resolvex.ch
+author: Steimann Thomas
+description: My awesome portfolio site
+paginate: 3
+google_analytics: 
